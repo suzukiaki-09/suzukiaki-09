@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Benito G. Ludo
 
-<img align="right" src="https://raw.githubusercontent.com/suzukiaki-09/suzukiaki-09/main/banner.png" width="350" />
+<img align="right" src="https://raw.githubusercontent.com/suzukiaki-09/suzukiaki-09/main/banner.png](https://github.com/suzukiaki-09/suzukiaki-09/blob/main/bannerProgrammer.jpg" width="350" />
 
 ### Full Stack Developer | Mobile & IoT Enthusiast | Machine Learning Explorer
 
